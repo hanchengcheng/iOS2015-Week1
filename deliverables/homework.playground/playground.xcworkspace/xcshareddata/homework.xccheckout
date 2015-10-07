@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB5A6EC5-7F07-453D-835A-E9768B254D92</string>
+	<key>IDESourceControlProjectName</key>
+	<string>homework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F46D9D783FF3EF2778A5963FC8093D09C079698</key>
+		<string>https://github.com/IgnitionBoulder/iOS2015-Week1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>deliverables/homework.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F46D9D783FF3EF2778A5963FC8093D09C079698</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IgnitionBoulder/iOS2015-Week1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F46D9D783FF3EF2778A5963FC8093D09C079698</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F46D9D783FF3EF2778A5963FC8093D09C079698</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS2015-Week1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
